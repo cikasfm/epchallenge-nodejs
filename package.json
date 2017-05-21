@@ -1,0 +1,22 @@
+{
+  "name": "epchallenge",
+  "version": "1.0.0",
+  "description": "ElasticPath maze challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elastic",
+    "path",
+    "ep",
+    "maze",
+    "challenge",
+    "nodejs"
+  ],
+  "author": "Zilvinas Vilutis <zilvinas@vilutis.lt>",
+  "license": "ISC",
+  "dependencies": {
+    "restler": "^3.4.0"
+  }
+}

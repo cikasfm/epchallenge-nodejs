@@ -1,0 +1,23 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Ignore built client app
+public/
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Code coverage reports
+coverage.html
+coverage.json
+coverage/
+
+# Generated HTML templates
+tmp/*.html
